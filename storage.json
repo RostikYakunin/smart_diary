@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "New task",
+        "due_date": "2025-10-12 13:00",
+        "done": false
+    },
+    {
+        "id": 2,
+        "title": "Some task",
+        "due_date": "2025-06-10 15:30",
+        "done": false
+    }
+]
